@@ -1,9 +1,6 @@
 
-## Soorya Paturi (sopaturi@gmail.com)
 
-### Abstract
-
-# Predicting House Prices
+# Kaggle Competition: Predicting House Prices
 
 ## Soorya Paturi (sopaturi@gmail.com)
 
