@@ -4,6 +4,8 @@
 
 ## Soorya Paturi (sopaturi@gmail.com)
 
+
+Update: Most recent submission is in the top 8% of all submissions.
 ### Abstract
 
 A house has many characteristics that describe it from the type of material that is used on the exterior of the house to the number of rooms in the house. Typically, only a few key characteristics are used to describe a house instead of all of the descriptors when describing a house. A common descriptor of a house is home price because it takes into account the value of many other characteristics. The goal of this project is to predict home prices in Ames, Iowa. Currently, there is not a published deterministic relationship between home price and the characteristics of a home.  However, the objective is to find a relationship between house characteristics and home price so that home price can be predicted.
